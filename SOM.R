@@ -1,6 +1,6 @@
 #Implementing SOM and Plotting on a 2D Hexagonal Grid
-#Dataset- Dow Jones Indes comprising of various stocks
-#750 Values and 16 Attributes
+#Dataset- Reasons for Employees Being Absent
+#740 Values and 21 Attributes
 
 require(kohonen)
 require(RColorBrewer)
